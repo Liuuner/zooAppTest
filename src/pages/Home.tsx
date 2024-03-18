@@ -1,6 +1,6 @@
 function Home () {
     return (
-        <h1>Home v0.2.1</h1>
+        <h1>Home v0.3.0</h1>
     )
 }
 
