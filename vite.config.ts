@@ -11,7 +11,7 @@ export default defineConfig(() => {
         src: "/src"
       }
     },
-    base: "./"
+    base: "/zooAppTest"
   }
 
   return config;
